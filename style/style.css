@@ -102,3 +102,40 @@ body {
     align-items: center;
     gap: 15px;
 }
+/* .skills{
+    align-items: center;
+    margin:212px 127px;
+    padding: 100px 10%;
+    
+} */
+
+.skills h4{
+    text-align: center;
+    color: #151414;
+    font-size: 40px;
+    margin-bottom: 60px;
+    margin-top: 126px;
+
+}
+.skills .box{
+    display: flex;
+    justify-content: center;
+    gap: 100px; 
+}
+.box .card{
+    text-align: center;
+    max-width: 250px;   
+}
+.card img{
+    margin-bottom: 24px;
+}
+.card h5{
+    color:#151414;
+    font-size: 30px;
+    margin-bottom: 16px;
+    white-space: nowrap;
+}
+.card p{
+    color:#444343;
+    font-size: 16px;
+}
